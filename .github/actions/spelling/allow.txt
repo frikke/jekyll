@@ -1,4 +1,4 @@
-built-ins
+builtins
 github
 hakiri
 https
@@ -13,3 +13,5 @@ workaround
 workaround
 workarounds
 WSL
+decapcms
+tina
